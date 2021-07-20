@@ -1,0 +1,7 @@
+img {
+    float: left;
+    width:  300px;
+    height: 300px;
+    object-fit: cover;
+    box-shadow: 10px 10px 5px grey;
+}
